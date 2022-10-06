@@ -19,6 +19,8 @@ namespace MyAppplication
             int myInt1 = (int)myDouble2;
             Console.WriteLine(myInt1);
             Console.WriteLine(myDouble2);
+            Console.WriteLine(github);
+            //comment
 
         }
     }
